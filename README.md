@@ -1,2 +1,2 @@
-# student-identity-with-grades
+# Git projects
 This is my first Git Repository.
